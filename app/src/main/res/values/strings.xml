@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Latest Video Status</string>
+
+
+
+
+    <!-- TODO - add your ad unit Ids -->
+    <!-- AdMob ad unit IDs -->
+    <string name="admob_app_id">ca-app-pub-2693781332237304~7412928032</string>
+    <string name="banner_home_footer">ca-app-pub-2693781332237304/9655947996</string>
+    <string name="interstitial_full_screen">ca-app-pub-2693781332237304/4371121283</string>
+    <!--<string name="rewarded_video">ca-app-pub-1173803224503256/1426197399</string>-->
+
+
+</resources>
